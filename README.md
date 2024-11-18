@@ -1,1 +1,1 @@
-# digital-oasis-club.github.io
+一个由高中生组建的游戏开发社团。
